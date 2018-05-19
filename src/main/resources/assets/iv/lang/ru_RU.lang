@@ -1,0 +1,16 @@
+//Items
+item.iv:raw_villager.name=Сырое мясо жителя
+item.iv:cooked_villager.name=Приготовленное мясо жителя
+item.iv:thieving_nose.name=Похититель носа
+item.iv:notification_marker.name=Указующая метка
+
+//Blocks
+tile.iv:villager_nose.name=Нос жителя
+tile.iv:clay1_door.name=Глиняная дверь
+tile.iv:light_blue_stairs.name=Ступеньки из голубой обожжённой глины
+
+//Creative Tabs
+itemGroup.tabIv=Improved Villagers
+
+//Death Messages
+death.attack.iv.old_age=%1$s умер от старости
